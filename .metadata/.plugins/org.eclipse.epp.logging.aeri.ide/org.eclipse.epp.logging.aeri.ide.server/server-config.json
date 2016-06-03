@@ -50,5 +50,5 @@
     "org.eclipse.core.filesystem::Could not delete*",
     "org.eclipse.pde.core::The current target platform contains errors*"
   ],
-  "problemsZipLastDownloadTimestamp": 0
+  "problemsZipLastDownloadTimestamp": 1464764915788
 }

@@ -1,6 +1,3 @@
 INDEX VERSION 1.3+/home/pearl-31/git/Friendster/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-353556731.index
-3023106801.index
-87321740.index
-899294467.index
-4234002208.index
+763108909.index
+2905326512.index
