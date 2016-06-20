@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Jun 20 16:24:38 IST 2016
+org.eclipse.jst.jee.server\:/binary\:/home/pearl-31/git/Friendster/friendster(4)/WebContent/WEB-INF/lib/apache-log4j-2.5-bin/log4j-web-2.5.jar=WEB-INF/lib/apache-log4j-2.5-bin/log4j-web-2.5.jar
+org.eclipse.jst.jee.server\:/binary\:/home/pearl-31/git/Friendster/friendster(4)/WebContent/WEB-INF/lib/apache-log4j-2.5-bin/log4j-web-2.5-sources.jar=WEB-INF/lib/apache-log4j-2.5-bin/log4j-web-2.5-sources.jar
